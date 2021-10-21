@@ -31,7 +31,7 @@ body {
 /*for Tablets and Mobile Screen*/
 @media only screen and (max-width: 800px) {
   #nav-bar {
-    position: abso;
+    position: absolute;
     width: 100%;
     height: 40vh;
     padding-bottom: 20px;
